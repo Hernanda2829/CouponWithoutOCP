@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CouponWithoutOCP.Coupon">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coupon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouponWithoutOCP.CouponWithCashback">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CouponWithCashback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouponWithoutOCP.CouponWithMaxNominal">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CouponWithMaxNominal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouponWithoutOCP.CouponWithNominal">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CouponWithNominal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouponWithoutOCP.CouponWithPercentage">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CouponWithPercentage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CouponWithoutOCP.Program">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
