@@ -4,3 +4,4 @@ Dalam program ini setiap Logic untuk nominal, persen, dan cashback terdapat clas
 tidak perlu memodifikasi seluruh logic
 
 ## 3. Class Diagram
+ ![class Diagram](https://github.com/Hernanda2829/CouponWithoutOCP/blob/master/CouponWithoutOCP/ClassDiagram1.png)
